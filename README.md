@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning scrum methodology/git/quarkus/mysql/java
 - 👯 I’m looking to collaborate on my growth 
 - 🤔 I’m looking for help with create new code
-- 📫 How to reach me:devcrova@gmail.com
+- 📫 How to reach me: devcrova@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: i'm learning yet
 
